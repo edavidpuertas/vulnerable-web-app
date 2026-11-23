@@ -1,4 +1,4 @@
-name: CodeQL Security Analysis
+name: SAST - CodeQL Security Analysis
 
 on:
   push:
